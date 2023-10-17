@@ -92,6 +92,7 @@ const Heading = ({selectedCity, prayerDate}) => {
     return (
         <Grid container spacing={2}>
             <Grid item xs={6}>
+                <h2>صتي علي محمد</h2>
                 <h2>{selectedCity}</h2>
             </Grid>
             <Grid item xs={6}>

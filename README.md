@@ -1,7 +1,7 @@
-simple react app for pryer times 
-framework used : 
-    material UI -> for styling
-    axios -> to fetch api
-    moment -> for date and time manuiplation
+simple react app for pryer times <br/>
+framework used :  <br/>
+    material UI -> for styling <br/>
+    axios -> to fetch api <br/>
+    moment -> for date and time manuiplation <br/>
 
 
